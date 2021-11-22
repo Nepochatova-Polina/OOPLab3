@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="xyValue" type="id" />
+    <item name="recordGesture" type="id" />
+    <item name="recognizeGesture" type="id" />
+    <item name="storeGesture" type="id" />
 </resources>
